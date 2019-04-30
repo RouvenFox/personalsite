@@ -7,5 +7,7 @@
 			"path": "C:\\Users\\afmsa\\Google Drive\\coding\\afmsavage.github.io"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "personalsite"
+	}
 }
